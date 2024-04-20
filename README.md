@@ -18,6 +18,14 @@ Each currency has a corresponding class with a static method `convertToUSD(doubl
 - PLN (Polish Zloty): 1 PLN = 0.25 USD
 - SYP (Syrian Pound): 1 SYP = 0.002 USD
 
+## Author
+
+- Mahmoud Najmeh
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for
+
 ## Example
 
 ```java
@@ -48,10 +56,4 @@ Exchange GBP Amount is: 140.0
 Exchange PLN Amount is: 25.0
 Exchange SYP Amount is: 0.2
 
-## Author
-
-- Mahmoud Najmeh
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+ details.
