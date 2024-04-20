@@ -41,7 +41,7 @@ public class CurrencyConverter {
     }
 }
 
-## This will output:
+- This will output:
 Exchange USD Amount is: 100.0
 Exchange EUR Amount is: 119.0
 Exchange GBP Amount is: 140.0
