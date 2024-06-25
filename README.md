@@ -22,9 +22,6 @@ Each currency has a corresponding class with a static method `convertToUSD(doubl
 
 - Mahmoud Najmeh
 
-## License
-
-This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 ## Example
 
